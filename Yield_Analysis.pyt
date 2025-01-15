@@ -711,7 +711,7 @@ def clean_points_by_passid(
 
 
 # -------------------------------------------------------------------------
-# 3) Function for the fourth tool: Create Thiessen Polygons
+# 4) Function for the fourth tool: Create Thiessen Polygons
 # -------------------------------------------------------------------------
 def create_combined_clipped_thiessen(
     in_polygons,
